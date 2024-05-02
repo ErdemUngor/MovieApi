@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "60BUqvpluqofkGH/uagaFARQ1XiYTI3TzHNgilV+RaUIQvG8rJlfSxF6kR2rtZR0brE64geFX24fG7VcS63URg==",
+  "success": true,
+  "projectFilePath": "/Users/erdemungor/Projects/MoviesApiSln/Movies/Movies/Movies.csproj",
+  "expectedPackageFiles": [
+    "/Users/erdemungor/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/erdemungor/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
