@@ -1,6 +1,7 @@
 ﻿var builder = WebApplication.CreateBuilder(args);
 
 
+//Deneme
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
